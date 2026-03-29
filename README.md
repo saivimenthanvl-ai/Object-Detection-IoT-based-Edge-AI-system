@@ -338,5 +338,3 @@ Possible next steps:
 This project should be used with **human review** for any enforcement-related workflow. Model predictions can be wrong, especially in low light, occlusion, motion blur, or crowded scenes.
 
 ---
-* Apache-2.0
-* proprietary academic/demo use only
