@@ -1,0 +1,254 @@
+[
+  {
+    "image": "img001.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_1",
+        "xmin": 32,
+        "ymin": 160,
+        "xmax": 123,
+        "ymax": 248
+      },
+      {
+        "label": "class_1",
+        "xmin": 397,
+        "ymin": 72,
+        "xmax": 543,
+        "ymax": 201
+      },
+      {
+        "label": "class_1",
+        "xmin": 322,
+        "ymin": 236,
+        "xmax": 386,
+        "ymax": 299
+      }
+    ]
+  },
+  {
+    "image": "img002.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_1",
+        "xmin": 139,
+        "ymin": 278,
+        "xmax": 276,
+        "ymax": 341
+      }
+    ]
+  },
+  {
+    "image": "img003.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_1",
+        "xmin": 386,
+        "ymin": 299,
+        "xmax": 499,
+        "ymax": 387
+      },
+      {
+        "label": "class_2",
+        "xmin": 321,
+        "ymin": 162,
+        "xmax": 381,
+        "ymax": 242
+      },
+      {
+        "label": "class_3",
+        "xmin": 236,
+        "ymin": 194,
+        "xmax": 331,
+        "ymax": 273
+      }
+    ]
+  },
+  {
+    "image": "img004.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_2",
+        "xmin": 72,
+        "ymin": 67,
+        "xmax": 180,
+        "ymax": 139
+      }
+    ]
+  },
+  {
+    "image": "img005.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_2",
+        "xmin": 329,
+        "ymin": 155,
+        "xmax": 394,
+        "ymax": 273
+      },
+      {
+        "label": "class_3",
+        "xmin": 83,
+        "ymin": 213,
+        "xmax": 153,
+        "ymax": 343
+      }
+    ]
+  },
+  {
+    "image": "img006.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_3",
+        "xmin": 336,
+        "ymin": 205,
+        "xmax": 469,
+        "ymax": 289
+      },
+      {
+        "label": "class_3",
+        "xmin": 55,
+        "ymin": 43,
+        "xmax": 199,
+        "ymax": 132
+      }
+    ]
+  },
+  {
+    "image": "img007.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_1",
+        "xmin": 457,
+        "ymin": 139,
+        "xmax": 529,
+        "ymax": 247
+      },
+      {
+        "label": "class_2",
+        "xmin": 252,
+        "ymin": 206,
+        "xmax": 332,
+        "ymax": 313
+      }
+    ]
+  },
+  {
+    "image": "img008.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_1",
+        "xmin": 363,
+        "ymin": 156,
+        "xmax": 512,
+        "ymax": 303
+      },
+      {
+        "label": "class_3",
+        "xmin": 56,
+        "ymin": 107,
+        "xmax": 184,
+        "ymax": 198
+      }
+    ]
+  },
+  {
+    "image": "img009.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_2",
+        "xmin": 214,
+        "ymin": 158,
+        "xmax": 355,
+        "ymax": 306
+      }
+    ]
+  },
+  {
+    "image": "img010.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_1",
+        "xmin": 370,
+        "ymin": 186,
+        "xmax": 437,
+        "ymax": 275
+      },
+      {
+        "label": "class_1",
+        "xmin": 432,
+        "ymin": 181,
+        "xmax": 543,
+        "ymax": 275
+      },
+      {
+        "label": "class_1",
+        "xmin": 128,
+        "ymin": 181,
+        "xmax": 215,
+        "ymax": 324
+      }
+    ]
+  },
+  {
+    "image": "img011.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_2",
+        "xmin": 349,
+        "ymin": 254,
+        "xmax": 427,
+        "ymax": 347
+      },
+      {
+        "label": "class_1",
+        "xmin": 146,
+        "ymin": 295,
+        "xmax": 239,
+        "ymax": 429
+      }
+    ]
+  },
+  {
+    "image": "img012.jpg",
+    "width": 640,
+    "height": 480,
+    "objects": [
+      {
+        "label": "class_3",
+        "xmin": 224,
+        "ymin": 205,
+        "xmax": 312,
+        "ymax": 282
+      },
+      {
+        "label": "class_3",
+        "xmin": 272,
+        "ymin": 66,
+        "xmax": 338,
+        "ymax": 140
+      }
+    ]
+  }
+]
