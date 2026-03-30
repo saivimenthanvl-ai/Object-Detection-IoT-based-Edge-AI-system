@@ -32,9 +32,9 @@ TRACKER_CFG = "bytetrack.yaml"
 ENABLE_EMAIL = False
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SMTP_EMAIL = "your_email@gmail.com"
-SMTP_PASSWORD = "your_app_password"
-ALERT_TO = "reviewer@example.com"
+SMTP_EMAIL = "user@gmail.com"
+SMTP_PASSWORD = "user123"
+ALERT_TO = "aigmdn.dgp@tn.gov.in"
 
 HELMET_MISSING_FRAMES = 10
 
